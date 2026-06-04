@@ -1,7 +1,7 @@
 # Mosfet-Characteristics-of-IHP-130-nM-Pdk
 
 
-## Id VsL 
+## Id Vs L 
 <img width="992" height="634" alt="image" src="https://github.com/user-attachments/assets/b1d71ccf-2314-4b54-bc69-6a667c8c1644" />
 
 What I am observing in the $I_d$ vs. $L$ curve (where drain current increases as channel length increases from $130\text{ nm}$ to around $336\text{ nm}$ before finally decreasing) is a classic short-channel phenomenon known as the **Reverse Short-Channel Effect (RSCE)**.
